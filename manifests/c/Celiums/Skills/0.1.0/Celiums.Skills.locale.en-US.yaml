@@ -1,0 +1,28 @@
+PackageIdentifier: Celiums.Skills
+PackageVersion: 0.1.0
+PackageLocale: en-US
+Publisher: Celiums Research Labs
+PublisherUrl: https://celiums.ai
+PublisherSupportUrl: https://github.com/terrizoaguimor/celiums-skills/issues
+Author: Celiums Research Labs, a division of Celiums Solutions, LLC
+PackageName: Celiums Skills
+PackageUrl: https://celiums.ai/skills
+License: AGPL-3.0-or-later
+LicenseUrl: https://github.com/terrizoaguimor/celiums-skills/blob/main/LICENSE
+Copyright: Celiums Research Labs
+ShortDescription: Search and install the Celiums public skills library for AI/coding agents.
+Description: >-
+  Celiums Skills is a public, open-forever library of 600,000+ expert-knowledge
+  skills for AI and coding agents, in the agentskills.io SKILL.md format. Search
+  by meaning and install the ones you need into Claude Code, Hermes Agent,
+  OpenClaw and other compatible agents. A gift from Celiums Research Labs.
+Moniker: celiums-skills
+Tags:
+  - ai
+  - agents
+  - claude
+  - skills
+  - llm
+  - agentskills
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
